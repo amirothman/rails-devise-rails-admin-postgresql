@@ -23,7 +23,7 @@ replacing the username and password
 
 and
 
-	database: devisecampurrailsadmin_development
+  database: devisecampurrailsadmin_development
 
 to what ever the name of your created database is.
 
