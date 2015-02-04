@@ -9,8 +9,8 @@ default: &default
   encoding: unicode
   pool: 5
   host: localhost
-  username: devisecampurrailsadmin
-  password: devisecampurrailsadmin!
+  username: POSTGRESQL_USERNAME
+  password: POSTGRESQL_PASSWORD
 
 development:
   <<: *default
